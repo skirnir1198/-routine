@@ -1,0 +1,48 @@
+
+* {
+    width: 1400px;
+}
+body {
+    width: 100%;
+}
+h1 {
+    font-size: 20px;
+}
+.hidden {
+ display: none;
+}
+
+.vis {
+    visibility: hidden;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+#iframe_wrap {
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+#js-play_btn {
+    width: 130px;
+    margin-top: 50px;
+}
+#meisou {
+    margin-top: 50px;
+   text-align: center;
+}
+#meisouStart {
+    font-size: 50px;
+    margin: 0;
+}
+#count,#timer {
+    margin: 0;
+    font-size: 50px;
+}
+#time,#timeAll {
+    margin: 0;
+    font-size: 200px;
+}
